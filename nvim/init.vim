@@ -137,8 +137,8 @@ if exists("&termguicolors") && exists("&winblend")
   set background=dark
   " Use NeoSolarized
   let g:neosolarized_termtrans=1
-  runtime ./colors/nord.vim
-  colorscheme nord
+  runtime ./colors/NeoSolarized.vim
+  colorscheme NeoSolarized
 endif
 
 "}}}
