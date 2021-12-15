@@ -60,3 +60,6 @@ nmap <C-w><right> <C-w>>
 nmap <C-w><up> <C-w>+
 nmap <C-w><down> <C-w>-
 
+" Buffer
+nmap <C-n> :bn<cr>
+nmap <C-p> :bp<cr>
